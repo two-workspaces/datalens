@@ -30,7 +30,7 @@ The stack is six services: DataLens (the web app, the only public one), US (Unit
 
 - [DataLens documentation](https://datalens.tech/docs/en/)
 - [DataLens on GitHub](https://github.com/datalens-tech/datalens)
-- [Template source on GitHub](https://github.com/nomideusz/datalens-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/datalens)
 
 ### Implementation Details
 
